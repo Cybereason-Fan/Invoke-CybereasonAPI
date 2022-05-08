@@ -22,7 +22,6 @@ DESCRIPTION
 
 ❓ Not sure where to get the session id? Try [Get-CybereasonCookie](https://github.com/Cybereason-Fan/Get-CybereasonCookie)
 
- 
 ## 1.0.0
 
 Initial Release
