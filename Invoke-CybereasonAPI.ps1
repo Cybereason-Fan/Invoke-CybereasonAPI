@@ -1,7 +1,7 @@
 Function global:Invoke-CybereasonAPI {
     <#
 .SYNOPSIS
-Invokes an on-premises Cybereason API
+Invokes the API of an on-premise Cybereason management console
 .DESCRIPTION
 A framework function to invoke the Cybereason API. Use this to build other tools on or just to experiment with the API in a convenient way.
 .PARAMETER server_fqdn
