@@ -5,9 +5,7 @@
 
 ![image](usage-Invoke-CybereasonAPI.png)
 
-``` 
 ❗ You must load this script as a "dot sourced" script (see the screenshot above!)
-
 ```
 . .\Invoke-CybereasonAPI.ps1
 ```
